@@ -1,0 +1,25 @@
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Configurações locais do Spring
+application-local.properties
+application-local.yml
+
+# IDEs e Editores
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.classpath
+.project
+.settings/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
